@@ -7,6 +7,7 @@
 Achilles Saxby helped me in uploading screen shots.
 Daniel Fay helped me in learning the process.
 Vishwajeet Shelar helped me in learning the process.
+
 ### What I learned till now:
 How to mk dir, go to it, fork, what is add, commit, push, pull, merge, touch, echo, ...
 
