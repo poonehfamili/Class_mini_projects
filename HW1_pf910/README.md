@@ -1,5 +1,5 @@
 # PUI 2016 HW 1.
-# Github Rep: poonehfamili
+# Github ID: poonehfamili
 ### Work on a fork:
 1. I forked vishelar and access to his repository: gittest_vys217 and added this statement on myfirstfile.txt: hellokjsdhafjkdfgh
 2. Adrian forked me and access to adrianpoonehfile.txt in my repository: gittest_pf910 and added this line: Hello there, this is Dr Bianco messing with your file
