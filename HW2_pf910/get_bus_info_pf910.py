@@ -41,12 +41,13 @@ with open(sys.argv[3], 'wb') as f:
 
         if 'OnwardCall' not in bus[i]["MonitoredVehicleJourney"]['OnwardCalls']:
             next_stop = "N/A"
+            stop_status = "N/A"
         else:
             next_stop = bus[i]["MonitoredVehicleJourney"]['OnwardCalls']['OnwardCall'][0]["StopPointName"]
 
     #print("Next Stop is %s" % ( next_stop ))
 
-        stop_status = bus[i]["MonitoredVehicleJourney"]['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
+            stop_status = bus[i]["MonitoredVehicleJourney"]['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
     # print("Stop_Status is %s" % ( stop_status ))
         fout.write("%s,%s,%s,%s\n" %(vehicle_location['Latitude'], vehicle_location['Longitude'], next_stop, stop_status))
 
