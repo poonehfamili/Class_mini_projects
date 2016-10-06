@@ -1,0 +1,8 @@
+a. verify that their Null and alternative hypotheses are formulated correctly:
+The assignment was done to test whether there is a relationship between Citibike users' age and the trip duration. The null and alternate hypothesis were developed to be tested mathematically. The testable hypothesis trying to find the relationship between the user's age and corresponding trip duration, a significance level of p=0.05. While I suggest an IDEA could be added to make the test purpose more clear.
+
+b. verify that the data supports the project:
+The dataset was properly prepared to pull trip durations and user's birth year (infer the age)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked:
+Given that there is no group division, an Chi-Squared correlation coefficient test would be appropriate to test the null hypothesis.
