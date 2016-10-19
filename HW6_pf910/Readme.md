@@ -1,4 +1,4 @@
-Assignment 1: I worked alone, but for interpreting the chi sq Daniel Fay helped me, I helped some of students as well but I cant remember their names.
+Assignment 1: I worked alone, but for interpreting the chi sq Daniel Fay helped me, I helped some of students as well but I cant remember their names.It is in "building_nrg_instructions_pf910.ipynb"
 
 
 
@@ -7,4 +7,4 @@ Assignment 2: Adrian and I was working on CitiBike project and together finished
 https://www.authorea.com/users/106478
 
 
-my user name in Authorea is Pooneh. And also my code is in Github/pui2016_pf910/Hw3_pf910/HW3_2_pf910
+my user name in Authorea is Pooneh. And also my code is in "HW3_2_pf910 (2).ipynb"
