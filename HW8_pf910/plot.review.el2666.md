@@ -9,5 +9,6 @@ The scale and unit is readable and visible, the plot is understandable, the sour
 which this data  belongs to.
 
 Esthically
-the plot is not too busy. It is easy to see  and also compare .  Red and green should never be used onthe same plot 
-in order to avoid color-blindness related complications. 
+
+
+the plot is not too busy. It is easy to see  and also compare. 
