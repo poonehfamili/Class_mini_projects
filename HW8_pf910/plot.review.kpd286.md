@@ -1,5 +1,7 @@
 Plot: the changes of rent during time: kpd286
+
 ![](/HW8_pf910/plot.kpd286.jpg)
+
 
 no title, no caption, 
 It is unclear where this data comes from(source of data), where is the specific city(town), neighbourhood,
