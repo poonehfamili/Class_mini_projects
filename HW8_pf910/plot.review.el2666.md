@@ -1,6 +1,6 @@
 Plot: Times Series Visualization: el2666
 
-![](HW8_pf910/plot.el2666.jpg?raw=true)
+![](/HW8_pf910/plot.el2666.jpg?raw=true)
 
 
 It has x label, y label, caption, title, no legend( which might not be needed, the caption is comprehensive enough), may be if explaining 
